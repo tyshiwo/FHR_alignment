@@ -28,7 +28,7 @@ cd FHR_alignment
 ```
 
 ### Data
-Download the training and testing data include datasetsets 300W and 300VW from ###[[Google drive]](https://drive.google.com/open?id=1NFJ4AhtM33Gus-Ri_lhwgMEZnNCDLqdl)
+Download the training and testing data include datasetsets 300W and 300VW from [[Google drive]](https://drive.google.com/open?id=1NFJ4AhtM33Gus-Ri_lhwgMEZnNCDLqdl)
 
 Put it into the root path (i.e., FHR_alignment/data)
 
