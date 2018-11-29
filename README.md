@@ -1,4 +1,4 @@
-# FSRNet
+# Fractional Heatmap Regression
 ### [[Paper]](https://arxiv.org/pdf/1811.00342.pdf) [[Slides]](https://drive.google.com/open?id=12llt9uzYIUG4Xgx0G9YqnR8rUs1tGYN-) [[Supp]](https://drive.google.com/open?id=1cFyjZWdGOBZ8t-63bZehERMaKpTkawwe)
 
 ### Citation
@@ -28,11 +28,7 @@ cd FHR_alignment
 ```
 
 ### Data
-Download the training and testing data include datasetsets 300W and 300VW from 
-
-```bash
-[[Google drive]](https://arxiv.org/pdf/1811.00342.pdf)
-```
+Download the training and testing data include datasetsets 300W and 300VW from ###[[Google drive]](https://drive.google.com/open?id=1NFJ4AhtM33Gus-Ri_lhwgMEZnNCDLqdl)
 
 Put it into the root path (i.e., FHR_alignment/data)
 
